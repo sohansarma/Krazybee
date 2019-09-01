@@ -1,0 +1,18 @@
+.categories_container {
+   padding: 20px;
+}
+
+.categories_title {
+	font-size: 26px;
+	font-weight: 600;
+}
+
+.categories_sub_title {
+	opacity: 0.5;
+	margin-bottom: 20px
+}
+
+.categories_header {
+	padding-left: 25px;
+	border-bottom: 1px solid #cccccc;
+}
